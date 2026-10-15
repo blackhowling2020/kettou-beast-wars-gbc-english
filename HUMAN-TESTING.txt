@@ -1,6 +1,13 @@
-BEAST WARS ENGLISH v0.29 - HUMAN PLAYTEST
+BEAST WARS ENGLISH v0.30 - HUMAN PLAYTEST
 
 Start from a cleanly patched ROM and a fresh boot. Use the included PDF for passwords and hidden controls. Emulator states made on earlier patches may retain old graphics.
+
+Priority for this build:
+- Scuba: complete Scuba Dance 99; check the unchanged ellipsis, then NO GOOD!
+- Cheetus: wait through the full ultimate for TAKE / THIS!!
+- Megatron: check the round-win balloon on both screen sides.
+- Star Upper arena: check FIGHT!! / STAR UPPER signs while the camera scrolls.
+- Other fighters: report any additional text late in complete hidden-ultimate animations, including alternate forms and unusual outcomes.
 
 Please review:
 1. Opening narration: clear English, correct pacing, and swaying crystals visible behind the text.
