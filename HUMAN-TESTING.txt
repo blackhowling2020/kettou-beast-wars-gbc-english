@@ -1,0 +1,19 @@
+BEAST WARS ENGLISH v0.29 - HUMAN PLAYTEST
+
+Start from a cleanly patched ROM and a fresh boot. Use the included PDF for passwords and hidden controls. Emulator states made on earlier patches may retain old graphics.
+
+Please review:
+1. Opening narration: clear English, correct pacing, and swaying crystals visible behind the text.
+2. Main menu: artwork, gradients, spacing, both selection boxes, all six choices and return paths.
+3. SINGLE: all available fighters, battle introductions, transformations, move instructions, victory/defeat, retry, endings and scrolling credits.
+4. TEAM: both factions, different three-member orders, replacements, wins, losses and rematches.
+5. QUICK DRAW: selection, action prompts, outcomes and winner dialogue.
+6. OPTIONS: timer/skill/language variants, Move List scroll hints and exit, and sound selection.
+7. EXTRAS: all seven crystals after the combined unlock; every instruction, character selection and score/result screen. Check CONFIRM/EXIT particularly in Run and Fight selections.
+8. Profiles/tutorials: wording, character personality, button icons, line breaks, long paragraphs and hidden lessons/endings.
+9. Passwords/hidden fighters: three syllable keys, BI-[blank]-BI, combined unlock order, Ikard/Scylla/D-J and Soft Dip controls. Use native settings only if you want their optional gameplay effects.
+10. If compatible equipment is available: linked two-player modes and physical printer output.
+
+For an issue, record: build version, emulator/hardware, mode, character/team, option settings, scene, the buttons/actions immediately before it, expected behavior and a screenshot. Include a reproducible save state when possible and identify the emulator that created it. Note language/voice concerns even when the text fits correctly.
+
+Automated checks cover many paths, not every player action or language judgment. This checklist is the final human review, not a claim that the project has already passed it.
