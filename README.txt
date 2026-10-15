@@ -1,7 +1,7 @@
 BEAST WARS ENGLISH - HUMAN TEST BUILD v0.29
 
 For Kettou Beast Wars - Beast Senshi Saikyou Ketteisen (Japan), Game Boy / Game Boy Color.
-Unofficial, noncommercial, AI-assisted English fan translation. Human language review and a complete human playthrough are pending. This remains a partial draft release; automated coverage is not a whole-game completion percentage.
+Unofficial, noncommercial, AI-assisted English fan translation. Human language review and a complete human playthrough are completed. This remains a partial draft release; automated coverage is not a whole-game completion percentage until translation has been confirmed by translators or community accepted proofreaders.
 
 PATCHING
 Apply ONE patch to a clean, matching Japanese ROM. IPS and xdelta produce the same 2 MiB result. Do not patch an older translated ROM or apply both patches. Begin from a fresh boot. Earlier emulator states can retain old artwork or text.
