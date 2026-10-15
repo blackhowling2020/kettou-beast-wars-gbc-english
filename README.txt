@@ -1,4 +1,4 @@
-BEAST WARS ENGLISH - HUMAN TEST BUILD v0.30
+BEAST WARS ENGLISH - HUMAN TEST BUILD v0.31
 
 For Kettou Beast Wars - Beast Senshi Saikyou Ketteisen (Japan), Game Boy / Game Boy Color.
 Unofficial, noncommercial, AI-assisted English fan translation. Human language review and a complete human playthrough are pending. This remains a partial draft release; automated coverage is not a whole-game completion percentage.
@@ -12,12 +12,20 @@ Source CRC32: 72895639
 Source size: 1048576 bytes
 Target SHA-256: see SHA256.json in this archive.
 
-v0.30 BATTLE AND SCENERY FIXES
+EARLIER v0.30 BATTLE AND SCENERY FIXES
 - Scuba Dance 99: the late Japanese speech after the ellipsis now reads NO GOOD! The native ellipsis, balloon outline, sprite placement and timing are retained.
 - Cheetus: the two timed ultimate callouts now read TAKE / THIS!!, with their original staggered sprite arrangement and outlines.
 - Megatron: tighter spacing keeps IT'S OVER further inside the existing round-win balloon.
 - Star Upper arena: crowd signs now read FIGHT!! and STAR UPPER, retaining the native purple/white colors, scenery, and repeating tile layout.
 - Five additional source-linked workbook entries; all existing wording, human overrides and review cells were preserved.
+
+v0.31 LANGUAGE POLISH
+- Applied10 source-checked editorial recommendations across14 existing occurrences.
+- Intro consistently describes the single Energon Crystal and uses a more natural sentence order.
+- Special-move and Piyopiyo instructions read as grammatical commands, with original button order.
+- Cheetus/Convoy profiles retain their original three-line paragraph height and describe mysterious planet Energoa naturally.
+- Improved Artemis, Moon, Megatron, Galvatron and Cheetus dialogue for conversational flow and character voice.
+- No optional terminology, menu-label, title-art or gameplay changes.
 
 TRANSLATION AND PRESENTATION
 - 1663 source-linked occurrences in the editable project workbook, with stable IDs and ROM locations. Existing source, wording, human override and review cells are preserved.
@@ -29,10 +37,11 @@ TRANSLATION AND PRESENTATION
 - No gameplay or difficulty modifications are part of this patch. Original passwords and optional Soft Dip settings still work.
 
 VERIFICATION
-This update adds full hidden-ultimate source-ROM checks for all ten fighters: low HP plus full BP, native command input, and 3,000 subsequent emulated frames in both CGB and DMG with close/wide opponent spacing. Controlled initial HP/BP/spacing make these animation checks, not natural campaign clears. Additional CGB checks hold a dummy idle until the first hit, then release actor overrides to observe connected continuations. No additional Japanese lettering was identified in the other examined ultimate animation assets.
-The replacement Scuba/Cheetus bubbles are checked directly in the English build in both hardware modes, including full opaque sprite pixels and original staggered geometry. Megatron's bubble passed source/English natural round-win checks in both modes. All ten stage resources were checked; only the arena sign font changed. A byte-difference audit confines changes from v0.29 to the three callout interiors, Megatron spacing, arena sign font, and checksum.
-Independent mGBA title/menu checks pass on this build. Broader v0.29 checks transfer only where the corresponding code/resources are byte-identical.
+Fresh v0.31 build passes original-source change audit and all pixel-width limits. Original Japanese font remains byte-identical. Exact v0.30 comparison confines changes to English scripts/intro and generated fonts or their references; gameplay, title and ultimate/stage artwork remain byte-identical.
+Changed profile/tutorial rows are checked on-screen in independent mGBA in CGB/DMG and both text settings. Native checks exercise full affected tutorial topics, all hidden-opponent intro literals, the Hard newsletter and all100 Guard result paths. Intro crystal motion/visibility and title/menu/selection markers are rechecked on the final build. Regenerated shared-font credit/result references are included in static audit and scoped regression checks. These are automated checks, not a complete human playthrough.
+One legacy Run/Fight result-entry test does not reach its result in either the untouched v0.30 baseline or v0.31. No fresh runtime pass is claimed for that harness; its existing wording is unchanged, and current compiled mappings are checked separately.
 
+Earlier project verification (not a fresh replay of every route in v0.31):
 Independent mGBA coverage includes ten profile paths, eleven tutorial paths and ten ending-replay paths in CGB/DMG and both text settings. Scrolling epilogues and credits are checked through native replay states; earlier controller-only battle-clear routes remain separate evidence. Complete English row/heading pixels are compared, rather than relying only on successful menu entry.
 One-player Team Mode wins/losses were exercised for both factions in both display modes; independent idle-loss and rematch checks also pass.
 Hidden passwords, the combined unlock sequence, Ikard/Scylla/D-J minigame variants and held-Left Soft Dip entry were checked. The guide explains the button sequences and the blank password key.

@@ -1,30 +1,30 @@
 {
-  "createdUTC": "2026-10-15T09:28:59.743106+00:00",
-  "targetSHA256": "f34c711c8c9af0b6f638fc76e0dd9a758470889fbbb63e1ef06d9e85973b25fe",
+  "createdUTC": "2026-10-15T12:08:05.806522+00:00",
+  "targetSHA256": "6d47b1801d8fc6766b77739d3cf03d6e23285c960ca8a8a21bb58cb02e2f27bd",
   "targetBytes": 2097152,
   "sourceSHA256": "73621246600e5c1cd4b18f55855b7d78f567e4dd6f621154dbbf37690b05276e",
   "ipsRoundtrip": true,
   "xdeltaRoundtrip": true,
   "files": {
-    "Beast-Wars-English-Partial-Draft-v0.30.ips": {
-      "sha256": "652eb3793b4a4c3f703e095a3ce550b969dadd9a9a4497372e2538e6ec8ae205",
-      "bytes": 251909
+    "Beast-Wars-English-Partial-Draft-v0.31.ips": {
+      "sha256": "82c6c76277bbd7a29e232a4506a1f73ff8681a4ad051fc3f5553d04b8ea5bf5e",
+      "bytes": 252131
     },
-    "Beast-Wars-English-Partial-Draft-v0.30.xdelta": {
-      "sha256": "7a1bcc733bf65e460468c6538cc78095a78976a5c088cab1ae71972fc306c4c6",
-      "bytes": 95395
+    "Beast-Wars-English-Partial-Draft-v0.31.xdelta": {
+      "sha256": "37f57678a3bb8227fe1da13b0efb647991d0ff34d6dc7c7c326d2b8208d69877",
+      "bytes": 95576
     },
-    "Beast-Wars-English-Player-Guide-v0.30.pdf": {
-      "sha256": "ef789df55452a99e6656b98ff95d3e910662efd049f8822138f0f37936fad2a7",
-      "bytes": 86303
+    "Beast-Wars-English-Player-Guide-v0.31.pdf": {
+      "sha256": "bb08daca1af93cf0a265b63f2b2e04e58e45b257316cfde1aab93f5ac68e9306",
+      "bytes": 86304
     },
     "HUMAN-TESTING.txt": {
-      "sha256": "f00741b493130348ce7c7f1fec48b7fee0fd2c6e7df229997ae333e0b59b555c",
-      "bytes": 2426
+      "sha256": "0395bafbca390556adb7e94a0e7b60669f7ef7204dfd84893ffc1264896561b8",
+      "bytes": 2718
     },
     "README.txt": {
-      "sha256": "ebe3fbb69fab70187dae201a27bb81ee6a2f1bd93a33c0912c6f1355c251277b",
-      "bytes": 6531
+      "sha256": "c567f679d57699e6e74e163af967f0928668b9791fbdf4d48161ef8a4cc0a6f9",
+      "bytes": 7174
     }
   }
 }

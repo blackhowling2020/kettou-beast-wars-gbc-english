@@ -1,4 +1,6 @@
-BEAST WARS ENGLISH v0.30 - HUMAN PLAYTEST
+v0.31 language review focus: read the opening crystal narration, Cheetus and Convoy profiles, Specials/Super tutorials, Galvatron/Cheetus Guard results, Artemis/Moon Hard newsletter, and Megatron/Artemis encounter introductions. Check complete lines, natural dialogue and original timing.
+
+BEAST WARS ENGLISH v0.31 - HUMAN PLAYTEST
 
 Start from a cleanly patched ROM and a fresh boot. Use the included PDF for passwords and hidden controls. Emulator states made on earlier patches may retain old graphics.
 
